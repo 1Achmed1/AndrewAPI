@@ -1,0 +1,5 @@
+name: AndrewAPI
+main: com.github.andrewapi.AndrewAPI
+version: ${version}
+authors: [1Achmed1, GitHub Contributers]
+description: An API that was created by 1Achmed1 and has been contributed to by GitHub users
